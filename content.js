@@ -133,6 +133,6 @@ function searchUsers() {
 
   document.getElementById("matchCount").innerText =
     "Matches: " + count;
-}
+}    
 
 setInterval(createSearchUI, 2500);
