@@ -116,8 +116,6 @@ function searchUsers() {
         ">
 
 
-        
-
         <div style="font-size:13px">
           ${username}
         </div>
