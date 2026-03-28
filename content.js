@@ -114,8 +114,6 @@ function searchUsers() {
           height:32px;
           border-radius:50%;
         ">
-
-
         <div style="font-size:13px">
           ${username}
         </div>
